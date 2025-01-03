@@ -5,12 +5,12 @@ Este projeto é um **self bot** para Discord, projetado para monitorar e coletar
 ## Funcionalidades
 
 - **Monitoramento de usuários:** O bot pode observar e registrar a atividade dos usuários em servidores públicos.
-- **Notificações em tempo real:** Notificações de eventos como mensagens, joins, ou mudanças de status.
+- **Notificações em tempo real:** Notificações de eventos como mensagens, joins e etc.
 ## Como Rodar
 
 ### Requisitos
 
-- [Node.js](https://nodejs.org/) versão 16 ou superior
+- [Node.js](https://nodejs.org/) LTS
 - [npm](https://www.npmjs.com/) para gerenciar pacotes
 
 ### Instalação
