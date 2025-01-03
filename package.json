@@ -1,0 +1,24 @@
+{
+  "name": "null-monitoramento",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "hax",
+  "license": "ISC",
+  "description": "",
+  "imports": {
+    "#app/*": "./app/*",
+    "#events": "./app/events/index.js",
+    "#functions": "./app/functions/index.js",
+    "#menus": "./app/menus/index.js"
+  },
+  "dependencies": {
+    "@magicyan/discord": "^1.2.2",
+    "chalk": "^5.4.1",
+    "discord.js": "^14.16.3",
+    "discord.js-selfbot-v13": "^3.4.6",
+    "node-fetch": "^3.3.2",
+    "request-promise-native": "^1.0.9"
+  }
+}

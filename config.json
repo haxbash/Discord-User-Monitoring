@@ -1,0 +1,18 @@
+{
+    "app": {
+        "tokens": [
+            "",
+            ""
+        ]
+    },
+    "users": [
+        {
+            "userId": "",
+            "webhookUrl": ""
+        },
+        {
+            "userId": "",
+            "webhookUrl": ""
+        }
+    ]
+}

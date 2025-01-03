@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "#app/*": ["./app/*"],
+            "#menus": ["./app/menus/index.js"],
+            "#events": ["./app/events/index.js"],
+            "#functions": ["./app/functions/index.js"],
+        }
+    }
+}
