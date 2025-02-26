@@ -18,5 +18,5 @@ Este projeto é um **self bot** para Discord, projetado para monitorar e coletar
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/haxbash/Discord-Self-Monitoring.git
+   git clone https://github.com/haxbash/Discord-User-Monitoring.git
    cd Discord-Self-Monitoring
